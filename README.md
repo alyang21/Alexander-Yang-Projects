@@ -3,6 +3,8 @@ A list and description of my public and private repositories.
 
 **Public:**
 
+**Baseball-Batting-Analyzer** This personal project makes an agent that autonomously explores MLB bat tracking data (2024 to 2025 Statcast metrics) to identify standout hitters, unusual swing profiles, and relationships between bat speed and performance outcomes, using Claude's tool use and agentic workflow capabilities. An AI agent autonomously investigates a dataset the way a human analyst would, by forming hypotheses, deciding what to check next based on what it finds, and producing a written summary of its findings, without a fixed, hardcoded analysis script.
+
 **MLC-Database:** Python code for the Marlboro Learning Center to transport student data into a working spreadsheet for data storage.
 
 **solarsystem:** Python code made with Dr. Gino Del Ferraro as part of a research project analyzing space physics. Simulated orbital behavior of different planets considering factors like elliptical or circular orbit, mass, and more.
